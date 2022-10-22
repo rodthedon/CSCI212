@@ -1,0 +1,3 @@
+# CSCI212
+CUNY Queens College CSCI-212 Java (Dr. Kenneth Lord)
+WIP DO NOT USE, THIS IS PRACTICE FOR GIT
